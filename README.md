@@ -1,4 +1,4 @@
-# Linux-Files
+# Linux Files
 
 *The files listed below are the main files I use, to use these files you may need to download files from "What I Use"*
 
